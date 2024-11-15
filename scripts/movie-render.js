@@ -6,4 +6,4 @@ export const renderMoviesToDOM = (movieHTML) => {
     } else {
         console.error('Could not find element with id "movie-list"');
     }
- };ß
+ };
